@@ -23,11 +23,12 @@ It is especially useful for:
 
 | Authors | Paper | Journal | Year | Package |
 |--------|-------|---------|------|---------|
-| Jan De Loecker, Frédéric Warzynski | *Markups and Firm-Level Export Status* | *American Economic Review* | 2012 | [Open](https://doi.org/10.3886/E112552V1) |
-| Chad Syverson | *Challenges to Mismeasurement Explanations for the US Productivity Slowdown* | *Journal of Economic Perspectives* | 2017 | [Open](https://www.openicpsr.org/openicpsr/project/113991/version/V1/view) |
 | Lucia Foster, John Haltiwanger, Chad Syverson | *Reallocation, Firm Turnover, and Efficiency: Selection on Productivity or Profitability?* | *American Economic Review* | 2008 | [Open](https://www.openicpsr.org/openicpsr/project/231426/version/V1/view) |
+| Jan De Loecker, Frédéric Warzynski | *Markups and Firm-Level Export Status* | *American Economic Review* | 2012 | [Open](https://doi.org/10.3886/E112552V1) |
 | Amitabh Chandra, Amy Finkelstein, Adam Sacarny, Chad Syverson | *Productivity Dispersion in Medicine and Manufacturing* | *American Economic Review* | 2016 | [Open](https://www.openicpsr.org/openicpsr/project/113445/version/V1/view) |
+| Chad Syverson | *Challenges to Mismeasurement Explanations for the US Productivity Slowdown* | *Journal of Economic Perspectives* | 2017 | [Open](https://www.openicpsr.org/openicpsr/project/113991/version/V1/view) |
 | Erik Brynjolfsson, Daniel Rock, Chad Syverson | *The Productivity J-Curve: How Intangibles Complement General Purpose Technologies* | *American Economic Journal: Macroeconomics* | 2021 | [Open](https://www.openicpsr.org/openicpsr/project/117947/version/V1/view) |
+| Alessandra Fenizia | *Managers and Productivity in the Public Sector* | *Econometrica* | 2022 | [Open](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.3982%2FECTA19244&file=ecta200431-sup-0002-dataandprograms.zip) |
 
 ---
 
