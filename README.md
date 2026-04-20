@@ -30,6 +30,7 @@ It is especially useful for:
 | Jan De Loecker, Frédéric Warzynski | *Markups and Firm-Level Export Status* | *American Economic Review* | 2012 | [Open](https://doi.org/10.3886/E112552V1) |
 | Chad Syverson | *Challenges to Mismeasurement Explanations for the US Productivity Slowdown* | *Journal of Economic Perspectives* | 2017 | [Open](https://www.openicpsr.org/openicpsr/project/113991/version/V1/view) |
 | Lucia Foster, John Haltiwanger, Chad Syverson | *Reallocation, Firm Turnover, and Efficiency: Selection on Productivity or Profitability?* | *American Economic Review* | 2008 | [Open](https://www.openicpsr.org/openicpsr/project/231426/version/V1/view) |
+| Amitabh Chandra, Amy Finkelstein, Adam Sacarny, Chad Syverson | *Productivity Dispersion in Medicine and Manufacturing* | *American Economic Review* | 2016 | [Open](https://www.openicpsr.org/openicpsr/project/113445/version/V1/view) |
 
 ---
 
