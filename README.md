@@ -34,5 +34,5 @@ It is especially useful for:
 
 ## Additional Information
 
-Our private repository contains additional code and datasets from research papers related to **production functions****.  
+Our private repository contains additional code and datasets from research papers related to **production functions**.  
 Please complete the access form to request entry.
