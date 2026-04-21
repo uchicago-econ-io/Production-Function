@@ -29,6 +29,7 @@ It is especially useful for:
 | Chad Syverson | *Challenges to Mismeasurement Explanations for the US Productivity Slowdown* | *Journal of Economic Perspectives* | 2017 | [Open](https://www.openicpsr.org/openicpsr/project/113991/version/V1/view) |
 | Erik Brynjolfsson, Daniel Rock, Chad Syverson | *The Productivity J-Curve: How Intangibles Complement General Purpose Technologies* | *American Economic Journal: Macroeconomics* | 2021 | [Open](https://www.openicpsr.org/openicpsr/project/117947/version/V1/view) |
 | Alessandra Fenizia | *Managers and Productivity in the Public Sector* | *Econometrica* | 2022 | [Open](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.3982%2FECTA19244&file=ecta200431-sup-0002-dataandprograms.zip) |
+| Nelli Valmari | *Estimating Production Functions of Multiproduct Firms* | *The Review of Economic Studies* | 2023 | [Open](https://zenodo.org/records/7474464) |
 
 ---
 
