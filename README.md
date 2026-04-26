@@ -19,7 +19,7 @@ It is especially useful for:
 
 ---
 
-## 📦 Replication Packages
+## 📦 Replication Packages 
 
 | Authors | Paper | Journal | Year | Package |
 |--------|-------|---------|------|---------|
