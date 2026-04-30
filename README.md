@@ -39,6 +39,8 @@ It is especially useful for:
 
 | Authors | Paper | Journal | Year | Package |
 |--------|-------|---------|------|---------|
+| Masayuki Morikawa | *Economies of Density and Productivity in Service Industries: An Analysis of Personal Service Industries Based on Establishment-Level Data* | Review of Economics and Statistics | 2011 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/R81HSK) |
+| Junjie Zhang; Martin D. Smith | *Estimation of a Generalized Fishery Model: A Two-Stage Approach* | Review of Economics and Statistics | 2011 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/QXMPBS) |
 | Jan De Loecker | *Detecting Learning by Exporting* | *American Economic Journal: Microeconomics* | 2013 | [Open](https://doi.org/10.3886/E114409V1) |
 | Andrew B. Bernard, Stephen J. Redding, Peter K. Schott | *Testing for Factor Price Equality with Unobserved Differences in Factor Quality or Productivity* | *American Economic Journal: Microeconomics* | 2013 | [Open](https://doi.org/10.3886/E114405V1) |
 | J. D. Dana, Eugene Orlov | *Internet Penetration and Capacity Utilization in the US Airline Industry* | *American Economic Journal: Microeconomics* | 2014 | [Open](https://doi.org/10.3886/E114421V1) |
