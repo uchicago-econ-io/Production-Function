@@ -23,7 +23,6 @@ It is especially useful for:
 
 ## Top 5
 
-
 | Authors | Paper | Journal | Year | Package |
 |--------|-------|---------|------|---------|
 | Lucia Foster, John Haltiwanger, Chad Syverson | *Reallocation, Firm Turnover, and Efficiency: Selection on Productivity or Profitability?* | *American Economic Review* | 2008 | [Open](https://www.openicpsr.org/openicpsr/project/231426/version/V1/view) |
@@ -35,22 +34,44 @@ It is especially useful for:
 | Alessandra Fenizia | *Managers and Productivity in the Public Sector* | *Econometrica* | 2022 | [Open](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.3982%2FECTA19244&file=ecta200431-sup-0002-dataandprograms.zip) |
 | Nelli Valmari | *Estimating Production Functions of Multiproduct Firms* | *The Review of Economic Studies* | 2023 | [Open](https://zenodo.org/records/7474464) |
 
-## Other
+
+## Review of Economics and Statistics
 
 | Authors | Paper | Journal | Year | Package |
 |--------|-------|---------|------|---------|
 | Masayuki Morikawa | *Economies of Density and Productivity in Service Industries: An Analysis of Personal Service Industries Based on Establishment-Level Data* | Review of Economics and Statistics | 2011 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/R81HSK) |
 | Junjie Zhang; Martin D. Smith | *Estimation of a Generalized Fishery Model: A Two-Stage Approach* | Review of Economics and Statistics | 2011 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/QXMPBS) |
+| Markus Eberhardt; Christian Helmers; Hubert Strauss | *Do Spillovers Matter When Estimating Private Returns to R&D?* | Review of Economics and Statistics | 2013 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/G7AOIO) |
+| Amil Petrin; Jagadeesh Sivadasan | *Estimating Lost Output from Allocative Inefficiency, with an Application to Chile and Firing Costs* | Review of Economics and Statistics | 2013 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FLRRCM) |
+| Alfonso Irarrazabal; Andreas Moxnes; Karen Helene Ulltveit-Moe | *Heterogeneous Firms or Heterogeneous Workers? Implications for Exporter Premiums and the Gains from Trade* | Review of Economics and Statistics | 2013 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/UIVLGH) |
+| Barbara Casu; Alessandra Ferrari; Tianshu Zhao | *Regulatory Reform and Productivity Change in Indian Banking* | Review of Economics and Statistics | 2013 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/1LFLUL) |
+| Jonathan Skinner; Douglas Staiger | *Technology Diffusion and Productivity Growth in Health Care* | Review of Economics and Statistics | 2015 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/9NOYOV) |
+| Nicola Lacetera; Justin Sydnor | *Would You Buy a Honda Made in the United States? The Impact of Production Location on Manufacturing Quality* | Review of Economics and Statistics | 2015 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/26870) |
+| Christoph E. Boehm; Aaron Flaaen; Nitya Pandalai-Nayar | *Input Linkages and the Transmission of Shocks: Firm-Level Evidence from the 2011 Tōhoku Earthquake* | Review of Economics and Statistics | 2019 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/JOBFPK) |
+| Ajay Shenoy | *Estimating the Production Function under Input Market Frictions* | Review of Economics and Statistics | 2021 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/BNOUBY) |
+| Thierry Mayer; Marc J. Melitz; Gianmarco I. P. Ottaviano | *Product Mix and Firm Productivity Responses to Trade Competition* | Review of Economics and Statistics | 2021 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VVR1SX) |
+| Loren Brandt; Feitao Jiang; Yao Luo; Yingjun Su | *Ownership and Productivity in Vertically Integrated Firms: Evidence from the Chinese Steel Industry* | Review of Economics and Statistics | 2022 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/2QZHPA) |
+| Emir Malikov; Shunan Zhao | *On the Estimation of Cross-Firm Productivity Spillovers with an Application to FDI* | Review of Economics and Statistics | 2023 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/2L2TTB) |
+| Dimitrije Ruzic; Sui-Jade Ho | *Returns to Scale, Productivity, Measurement, and Trends in U.S. Manufacturing Misallocation* | Review of Economics and Statistics | 2023 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/8ZZCAN) |
+
+
+## American Economic Journal: Microeconomics 
+
+| Authors | Paper | Journal | Year | Package |
+|--------|-------|---------|------|---------|
 | Jan De Loecker | *Detecting Learning by Exporting* | *American Economic Journal: Microeconomics* | 2013 | [Open](https://doi.org/10.3886/E114409V1) |
 | Andrew B. Bernard, Stephen J. Redding, Peter K. Schott | *Testing for Factor Price Equality with Unobserved Differences in Factor Quality or Productivity* | *American Economic Journal: Microeconomics* | 2013 | [Open](https://doi.org/10.3886/E114405V1) |
 | J. D. Dana, Eugene Orlov | *Internet Penetration and Capacity Utilization in the US Airline Industry* | *American Economic Journal: Microeconomics* | 2014 | [Open](https://doi.org/10.3886/E114421V1) |
 | Alan Spearot | *Unpacking the Long-Run Effects of Tariff Shocks: New Structural Implications from Firm Heterogeneity Models* | *American Economic Journal: Microeconomics* | 2016 | [Open](https://doi.org/10.3886/E114332V1) |
-| Chad Syverson | *Challenges to Mismeasurement Explanations for the US Productivity Slowdown* | *Journal of Economic Perspectives* | 2017 | [Open](https://www.openicpsr.org/openicpsr/project/113991/version/V1/view) |
 | Mitsuru Igami | *Industry Dynamics of Offshoring: The Case of Hard Disk Drives* | *American Economic Journal: Microeconomics* | 2018 | [Open](https://doi.org/10.3886/E114348V1) |
 | R. Andrew Butters | *Demand Volatility, Adjustment Costs, and Productivity: An Examination of Capacity Utilization in Hotels and Airlines* | *American Economic Journal: Microeconomics* | 2020 | [Open](https://doi.org/10.3886/E125241V1) |
-| Erik Brynjolfsson, Daniel Rock, Chad Syverson | *The Productivity J-Curve: How Intangibles Complement General Purpose Technologies* | *American Economic Journal: Macroeconomics* | 2021 | [Open](https://www.openicpsr.org/openicpsr/project/117947/version/V1/view) |
 | Vladimir Tyazhelnikov | *Production Clustering and Offshoring* | *American Economic Journal: Microeconomics* | 2022 | [Open](https://doi.org/10.3886/E148342V1) |
 | Simon Board, Moritz Meyer-ter-Vehn | *A Reputational Theory of Firm Dynamics* | *American Economic Journal: Microeconomics* | 2022 | [Open](https://doi.org/10.3886/E118970V1) |
+
+## Other
+
+| Chad Syverson | *Challenges to Mismeasurement Explanations for the US Productivity Slowdown* | *Journal of Economic Perspectives* | 2017 | [Open](https://www.openicpsr.org/openicpsr/project/113991/version/V1/view) |
+| Erik Brynjolfsson, Daniel Rock, Chad Syverson | *The Productivity J-Curve: How Intangibles Complement General Purpose Technologies* | *American Economic Journal: Macroeconomics* | 2021 | [Open](https://www.openicpsr.org/openicpsr/project/117947/version/V1/view) |
 
 ## Additional Information
 
