@@ -72,6 +72,7 @@ It is especially useful for:
 
 | Chad Syverson | *Challenges to Mismeasurement Explanations for the US Productivity Slowdown* | *Journal of Economic Perspectives* | 2017 | [Open](https://www.openicpsr.org/openicpsr/project/113991/version/V1/view) |
 | Erik Brynjolfsson, Daniel Rock, Chad Syverson | *The Productivity J-Curve: How Intangibles Complement General Purpose Technologies* | *American Economic Journal: Macroeconomics* | 2021 | [Open](https://www.openicpsr.org/openicpsr/project/117947/version/V1/view) |
+| Joel Stiebale, Jens Suedekum, Nicole Woessner | *Robots and the rise of European superstar firms* | *International Journal of Industrial Organization* | 2024 | [Open](https://doi.org/10.5281/zenodo.11609254) |
 
 ## Additional Information
 
